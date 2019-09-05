@@ -30,7 +30,7 @@ public class test {
 	if(num==num2)
 		System.out.println("You're a lucky winner!");
 	else
-		System.out.println("Sorry, try playing tomorrow.");
+		System.out.println("Sorry, try playing again tomorrow.");
 		
 		
 		
